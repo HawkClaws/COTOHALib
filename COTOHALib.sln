@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COTOHALib", "COTOHALib\COTOHALib.csproj", "{C3B69137-25D5-465D-859B-EEA6A6AFF869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_COTOHALib", "UnitTest_COTOHALib\UnitTest_COTOHALib.csproj", "{3DC6F1BE-9DE2-436F-B3AA-9B2347515135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3B69137-25D5-465D-859B-EEA6A6AFF869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B69137-25D5-465D-859B-EEA6A6AFF869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B69137-25D5-465D-859B-EEA6A6AFF869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B69137-25D5-465D-859B-EEA6A6AFF869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC6F1BE-9DE2-436F-B3AA-9B2347515135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC6F1BE-9DE2-436F-B3AA-9B2347515135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC6F1BE-9DE2-436F-B3AA-9B2347515135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC6F1BE-9DE2-436F-B3AA-9B2347515135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A8AF59-4016-4E6B-A953-46D728842B01}
+	EndGlobalSection
+EndGlobal

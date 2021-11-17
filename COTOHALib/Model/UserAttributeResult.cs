@@ -44,17 +44,17 @@ namespace COTOHALib.Model
 		/// <summary>
 		/// 職種
 		/// </summary>
-		public string location { get; set; }
+		public string occupation { get; set; }
 
 		/// <summary>
 		/// 出身地
 		/// </summary>
-		public string[] moving { get; set; }
+		public string location { get; set; }
 
 		/// <summary>
 		/// 移動手段
 		/// </summary>
-		public string occupation { get; set; }
+		public string[] moving { get; set; }
 
 		/// <summary>
 		/// 役職

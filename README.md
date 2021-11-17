@@ -1,5 +1,6 @@
 # COTOHALib
 NTTコミュニケーションズのCOTOHA APIの.NETラッパーライブラリです
+
 https://api.ce-cotoha.com/contents/index.html
 
 

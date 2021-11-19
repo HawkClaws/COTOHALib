@@ -57,6 +57,11 @@ namespace COTOHALib.Model
 		public string[] moving { get; set; }
 
 		/// <summary>
+		/// 職業
+		/// </summary>
+		public string occupation { get; set; }
+
+		/// <summary>
 		/// 役職
 		/// </summary>
 		public string position { get; set; }

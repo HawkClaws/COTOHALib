@@ -44,7 +44,7 @@ namespace COTOHALib.Model
 		/// <summary>
 		/// 職種
 		/// </summary>
-		public string occupation { get; set; }
+		public string kind_of_occupation { get; set; }
 
 		/// <summary>
 		/// 出身地
